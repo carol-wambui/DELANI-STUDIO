@@ -6,3 +6,9 @@ header{
 .about{
     text-align:center;
 }
+.center{
+    text-align: center;
+    background-image: url(../IP3-master/assets/backgrounds/s_image.jpg);
+}
+
+
