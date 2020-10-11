@@ -22,6 +22,11 @@ header{
 } 
 .portfolio img{
     width: 250px;
-}  
+} 
+#MERGE1, #MERGE0, #comment{
+    background: none;
+    color: #fff;
+    } 
+    
 
 
