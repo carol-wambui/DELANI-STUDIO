@@ -19,6 +19,9 @@ header{
 .contacts{
     text-align: center;
     background-image: url(../IP3-master/assets/backgrounds/c_image.jpg);
-}   
+} 
+.portfolio img{
+    width: 250px;
+}  
 
 
