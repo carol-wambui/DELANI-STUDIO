@@ -4,15 +4,16 @@
 ---
 ## Setup instructions
 * Launch your browser
-* on your search bar white [https://github.com/carol-wambui/DELANI-STUDIO](https://github.com/carol-wambui/DELANI-STUDIO)
+* on your search bar white [`https://github.com/carol-wambui/DELANI-STUDIO](https://github.com/carol-wambui/DELANI-STUDIO)
 * on github click the link and you ready to go.
 ### Git Hub Live Link
 *click to view my Delani-Studio*
-[https://github.com/carol-wambui/DELANI-STUDIO](https://github.com/carol-wambui/DELANI-STUDIO)
-## Copyright and License
-MIT License
-Copyright (c) [2020] [Carol Wambuicla]
-Permission is hereby granted, free of charge, to any person obtaining a copy
+[`https://github.com/carol-wambui/DELANI-STUDIO](https://github.com/carol-wambui/DELANI-STUDIO)
+## Projects
+* https://carol-wambui.github.io/CASHY-EVENT-MANAGEMENT/
+* https://carol-wambui.github.io/Akan-names/
+* https://carol-wambui.github.io/MY-PORTFOLIO/
+
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
